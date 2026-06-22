@@ -80,7 +80,6 @@ Analyzed iOS biome data and built software to streamline its analysis, at the ce
 ### GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antoine0703&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antoine0703&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
