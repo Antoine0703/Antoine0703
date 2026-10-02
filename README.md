@@ -15,9 +15,9 @@
 
 ### About me
 
-- I'm a software engineering student at **Epitech Lyon**, currently in my 3rd year.
+- I'm a software engineering student at **Epitech Lyon**, currently in my 4rd year.
 - Passionate about **AI / Machine Learning** and **Data Science**.
-- I enjoy **hackathons** — I built projects at the **Mistral AI MCP Hackathon** and **ETHGlobal Cannes 2025 & 2026**, and many more.
+- I enjoy **hackathons**, I built projects at the **Mistral AI MCP Hackathon** and **ETHGlobal Cannes 2025 & 2026**, and many more.
 - Comfortable from low-level (Haskell, C) up to modern AI stacks (Python, TypeScript).
 - Always exploring new tech and looking for challenging problems to solve.
 
